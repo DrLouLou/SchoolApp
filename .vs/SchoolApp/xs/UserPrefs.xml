@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SchoolLibrary/Teacher.cs">
+    <Files>
+      <File FileName="SchoolLibrary/School.cs" Line="59" Column="10" />
+      <File FileName="SchoolLibrary/Teacher.cs" Line="9" Column="2" />
+      <File FileName="SchoolLibrary/Student.cs" Line="10" Column="1" />
+      <File FileName="SchoolLibrary/Person.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SchoolApp" expanded="True">
+            <Node name="SchoolLibrary" expanded="True">
+              <Node name="Teacher.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

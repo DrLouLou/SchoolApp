@@ -1,0 +1,9 @@
+/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/bin/Debug/netcoreapp3.1/SchoolLibrary.deps.json
+/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/bin/Debug/netcoreapp3.1/SchoolLibrary.dll
+/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/bin/Debug/netcoreapp3.1/SchoolLibrary.pdb
+/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/obj/Debug/netcoreapp3.1/SchoolLibrary.csprojAssemblyReference.cache
+/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/obj/Debug/netcoreapp3.1/SchoolLibrary.AssemblyInfoInputs.cache
+/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/obj/Debug/netcoreapp3.1/SchoolLibrary.AssemblyInfo.cs
+/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/obj/Debug/netcoreapp3.1/SchoolLibrary.csproj.CoreCompileInputs.cache
+/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/obj/Debug/netcoreapp3.1/SchoolLibrary.dll
+/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/obj/Debug/netcoreapp3.1/SchoolLibrary.pdb

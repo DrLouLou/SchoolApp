@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/SchoolLibrary.csproj": {}
+  },
+  "projects": {
+    "/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/SchoolLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/SchoolLibrary.csproj",
+        "projectName": "SchoolLibrary",
+        "projectPath": "/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/SchoolLibrary.csproj",
+        "packagesPath": "/Users/louischoo-choy/.nuget/packages/",
+        "outputPath": "/Users/louischoo-choy/Code/DrLouLou/SchoolApp/SchoolLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/louischoo-choy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
